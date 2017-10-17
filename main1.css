@@ -47,6 +47,9 @@
     margin-right: 6px;
     font-size: 13px;
 }
+#section-a{
+  width: 240px !important;
+}
 #box-b1 b{
   padding: 8px;
 }
